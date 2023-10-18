@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paragraph-counter/static/css/main.1df30064.css",
+    "main.js": "/paragraph-counter/static/js/main.0ae5d241.js",
+    "index.html": "/paragraph-counter/index.html",
+    "main.1df30064.css.map": "/paragraph-counter/static/css/main.1df30064.css.map",
+    "main.0ae5d241.js.map": "/paragraph-counter/static/js/main.0ae5d241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df30064.css",
+    "static/js/main.0ae5d241.js"
+  ]
+}
